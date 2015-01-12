@@ -1,0 +1,5 @@
+<text>
+value1=123.00&value2=457.985&value5=1,2,3,4,5&value6=1,2:3,4,7:5&value7=waurddnfe
+    <retrievedDate>Mon Feb 18 14:43:23 GMT 2013</retrievedDate>sdffd<content>content placeholder</content>
+	abcd=-12&asd=-0.55&value5=1,-2,3,4,5&value6=11,2:34,4,-7:5&value7=rrrrr
+</text>

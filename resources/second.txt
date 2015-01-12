@@ -1,0 +1,5 @@
+<text>
+value1=123&value2=457.98&value5=5,4,3,2,1&value6=1,2:3,4,7:5&value7=waurnfe
+    <retrievedDate>Mon Feb 18 14:43:23 GMT 2013</retrievedDate>
+	abcd=-12.0&asd=-.55&value5=5,-2,3,4,1&value6=11,20:34,4,-7:5&value7=rrrrr
+</text>
